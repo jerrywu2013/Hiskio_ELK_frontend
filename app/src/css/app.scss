@@ -1,0 +1,26 @@
+// app global css in SCSS form
+@font-face {
+  font-family: NotoSansTC;
+  src: url(./fonts/NotoSansTC.woff);
+}
+
+body {
+  font-family: "NotoSansTC", "-apple-system", "Helvetica Neue", Helvetica, Arial,
+    sans-serif;
+}
+
+.ref-link {
+  color: $link;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.active-select {
+  background: #dedddc;
+}
+
+@media print {
+  .pagebreak {
+    page-break-before: always;
+  } /* page-break-after works, as well */
+}

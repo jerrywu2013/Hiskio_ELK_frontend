@@ -1,0 +1,25 @@
+{
+    "recommendations": [
+        "aaron-bond.better-comments",
+        "coenraads.bracket-pair-colorizer-2",
+        "dariofuzinato.vue-peek",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "johnsoncodehk.volar",
+        "lacroixdavid1.vscode-format-context-menu",
+        "lokalise.i18n-ally",
+        "oderwat.indent-rainbow",
+        "streetsidesoftware.code-spell-checker",
+        "tyriar.lorem-ipsum",
+        "wayou.vscode-todo-highlight",
+        "wmaurer.change-case"
+    ],
+    "unwantedRecommendations": [
+        "hookyqr.beautify",
+        "dbaeumer.jshint",
+        "ms-vscode.vscode-typescript-tslint-plugin"
+    ]
+}

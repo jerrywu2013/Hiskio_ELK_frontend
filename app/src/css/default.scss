@@ -1,0 +1,64 @@
+.q-layout__section--marginal
+  color: $accent
+  background-color: $white
+
+.q-item.q-router-link--active, .q-item--active
+  color: $white
+
+.q-drawer .q-item__section
+  color: $secondary
+
+.q-header
+  background: $secondary
+
+.q-footer
+  background: $secondary
+
+.q-drawer .q-tab__icon
+  font-size: 16px
+
+.q-drawer .q-item__section--side > .q-icon
+  font-size: 16px
+
+.q-drawer .q-item__section--avatar
+  min-width: 12px
+
+.q-drawer .q-btn .q-icon, .q-btn .q-spinner
+  font-size: 14px
+
+.q-card
+  margin-bottom: 10px
+  background: $card
+
+.q-tooltip
+  font-size: 12px
+
+.q-tab__label
+  font-weight: 600
+
+.edit
+  color: $edit
+
+.dashboard-card-info
+  font-weight: 600
+  font-size: 20px
+  margin-bottom: 0px
+
+.table-truancte-word
+  max-width: 20vw
+  white-space: nowrap
+  overflow: hidden
+  text-overflow: ellipsis
+
+.step-content
+  font-size: 13px
+
+.table-text-btn
+  font-size: 13px
+  height: 2em
+
+.q-chip
+  background: $primary
+
+.q-chip__content, .q-chip__icon--remove
+  color: $white
